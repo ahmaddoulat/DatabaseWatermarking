@@ -1,0 +1,14 @@
+{
+	myWatermark: "101000011101100",
+	section_min_size: 10,
+	datasize: 100000,
+	numSections: 2048,
+	avgsection_size: 100,
+	alphaf: 32,
+	threshold: 0.1,
+	seed_random_data: 1234567890,
+	mySecretKey: "1325120644847910511017410502569015818143326364017",
+	input_path: "C:\\Users\\doula\\Desktop\\testJson\\input\\pwdata.txt",
+	output_path: "C:\\Users\\doula\\Desktop\\testJson\\output\\settings.json",
+	private_output: "C:\\Users\\doula\\Desktop\\testJson\\output\\Private.json"
+}
